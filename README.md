@@ -42,13 +42,11 @@ Eager to apply my skills in a dynamic environment and contribute to innovative p
   A fun Tinder-style web app designed for dog owners to find playmates for their pets.  
 
 ---
-
 ## 📊 GitHub Stats
 
-![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranbasha8&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
+![Imran's GitHub stats](https://github-readme-stats.vercel.app/api?username=imranbasha8&show_icons=true&theme=radical&cache_seconds=86400)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranbasha8&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imranbasha8&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
